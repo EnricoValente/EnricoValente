@@ -1,16 +1,13 @@
-### Hi there 👋
+## Ciao 👋,
+Mi chiamo Enrico, ho 26 anni e sono un Jr. Full-Stack Web Developer di Torino.
+Circa un anno e mezzo fa mi sono interessato al mondo della programmazione e ho iniziato a studiare le basi di HTML e CSS grazie a video gratuiti trovati su internet. Il mio interesse per lo sviluppo web si è convertito in passione mentre frequentavo il corso di sei mesi di Boolean grazie al quale ho imparato le basi di alcuni linguaggi sia front-end, come Javascript e VueJs, che back-end, come PHP e Laravel.
 
-<!--
-**EnricoValente/EnricoValente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Attualmente sto studiando per migliorare le mie competenze con Javascript
 
-Here are some ideas to get you started:
+- 📫 Puoi trovarmi su [LinkedIn] (www.linkedin.com/in/enrico-valente-53930829a).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
